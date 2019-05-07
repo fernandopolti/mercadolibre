@@ -17,7 +17,7 @@ Official documentation and how to use the MercadoLibre API can be found at
 Using [composer](http://getcomposer.org)
 
 ```bash
-composer require zephia/mercadolibre
+composer require fernandopolti/mercadolibre
 ```
 
 ## Usage
